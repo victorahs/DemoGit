@@ -10,7 +10,7 @@ This repository only to show how to use GIT
 * git branch : crée une nouvelle branche.
 * git checkout nomBranche : permets de changer de branche
 * git pull : récupere est applique les modification
-* git int : Créer sont dépot
+* git init : Créer son dépot
 * git config --global user.name "[name]" : Permet de renseigner son nom
 * git config --global user.mail "[mail]" : Permet de renseigner son mail
 
@@ -21,7 +21,7 @@ This repository only to show how to use GIT
 Cette commande permets de déplacer un fichier.
 
 
-##Citation
+### Citation
 
 Ghandi say :
 
